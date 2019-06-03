@@ -8,7 +8,7 @@ Aplicativo online com informações sobre jogos de futebol brasileiro para apost
 
 [en español]
 
-Aplicativo en línea con informaciones sobre juegos de fútbol brasileño para apostadores e aficionados (hinchas).
+Aplicativo en línea con informaciones sobre juegos de fútbol brasileño para apostadores y aficionados (hinchas).
 
 --Tools:
 
