@@ -11,16 +11,9 @@ Aplicativo online com informações de jogos de futebol brasileiro para apostado
 
 Frontend:
 
-HTML5
-CSS3
-Bootstrap4
-Materialize
-Sass
-Javascript
-ReactJS
+HTML5, CSS3, Bootstrap4, Materialize, Sass, Javascript, ReactJS; 
 
 Backend: 
 
-Python3 (with libraries)
-MySQL
+Python3 (with libraries), MySQL;
 
